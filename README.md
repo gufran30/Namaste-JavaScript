@@ -21,7 +21,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | Ep | Topic | Key Concept | Status |
 | :--- | :--- | :--- | :---: |
 | 01 | **How JS Works** | Execution Context & Memory | ✅ |
-| 02 | **How Code is Executed** | Call Stack & Phases | ⏳ |
+| 02 | **How Code is Executed** | Call Stack & Phases | ✅ |
 | 03 | **Hoisting in JS** | Memory allocation for variables | ⏳ |
 | 04 | **Functions & Variables** | Execution of function calls | ⏳ |
 | 05 | **SHORTEST JS Program** | `window` & `this` keyword | ⏳ |
