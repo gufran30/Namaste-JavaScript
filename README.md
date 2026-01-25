@@ -24,7 +24,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | 02 | **How Code is Executed** | Call Stack & Phases | ✅ |
 | 03 | **Hoisting in JS** | Memory allocation for variables | ✅ |
 | 04 | **Functions & Variables** | Execution of function calls | ✅ |
-| 05 | **SHORTEST JS Program** | `window` & `this` keyword | ⏳ |
+| 05 | **SHORTEST JS Program** | `window` & `this` keyword | ✅ |
 | 06 | **undefined vs not defined** | JS Type System | ⏳ |
 | 07 | **The Scope Chain** | Lexical Environment | ⏳ |
 | 08 | **let & const & TDZ** | Temporal Dead Zone | ⏳ |
