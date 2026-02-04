@@ -29,7 +29,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | 05  | **SHORTEST JS Program**          | `window` & `this` keyword       |   ✅   |
 | 06  | **undefined vs not defined**     | JS Type System                  |   ✅   |
 | 07  | **The Scope Chain**              | Lexical Environment             |   ✅   |
-| 08  | **let & const & TDZ**            | Temporal Dead Zone              |   ⏳   |
+| 08  | **let & const & TDZ**            | Temporal Dead Zone              |   ✅   |
 | 09  | **Closures**                     | Function + Lexical Scope        |   ⏳   |
 | 10  | **setTimeout + Closures**        | Interview Questions on Closures |   ⏳   |
 | 11  | **Famous Interview Questions**   | Closure patterns                |   ⏳   |
