@@ -30,7 +30,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | 06  | **undefined vs not defined**     | JS Type System                  |   ✅   |
 | 07  | **The Scope Chain**              | Lexical Environment             |   ✅   |
 | 08  | **let & const & TDZ**            | Temporal Dead Zone              |   ✅   |
-| 09  | **Closures**                     | Function + Lexical Scope        |   ⏳   |
+| 09  | **BLOCK SCOPE & Shadowing in JS**                     | Scope        |   ✅   |
 | 10  | **setTimeout + Closures**        | Interview Questions on Closures |   ⏳   |
 | 11  | **Famous Interview Questions**   | Closure patterns                |   ⏳   |
 | 12  | **First Class Functions**        | Anonymous vs Named functions    |   ⏳   |
