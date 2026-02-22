@@ -20,26 +20,26 @@ Each folder in this repository corresponds to an episode from the series. Inside
 
 ### Season 1
 
-| Ep  | Topic                             | Key Concept                     | Status |
-| :-- | :-------------------------------- | :------------------------------ | :----: |
-| 01  | **How JS Works**                  | Execution Context & Memory      |   ✅   |
-| 02  | **How Code is Executed**          | Call Stack & Phases             |   ✅   |
-| 03  | **Hoisting in JS**                | Memory allocation for variables |   ✅   |
-| 04  | **Functions & Variables**         | Execution of function calls     |   ✅   |
-| 05  | **SHORTEST JS Program**           | `window` & `this` keyword       |   ✅   |
-| 06  | **undefined vs not defined**      | JS Type System                  |   ✅   |
-| 07  | **The Scope Chain**               | Lexical Environment             |   ✅   |
-| 08  | **let & const & TDZ**             | Temporal Dead Zone              |   ✅   |
-| 09  | **BLOCK SCOPE & Shadowing in JS** | Scope                           |   ✅   |
-| 10  | **Closures in JS**                | Closures                        |   ✅   |
-| 11  | **Famous Interview Questions**    | Closure patterns                |   ⏳   |
-| 12  | **First Class Functions**         | Anonymous vs Named functions    |   ⏳   |
-| 13  | **Callback Functions**            | Event Listeners & Callbacks     |   ⏳   |
-| 14  | **Asynchronous JS**               | Event Loop & Task Queue         |   ⏳   |
-| 15  | **JS Engine Exposed**             | V8 Engine Architecture          |   ⏳   |
-| 16  | **Trust issues with setTimeout**  | Concurrency Model               |   ⏳   |
-| 17  | **Higher-Order Functions**        | Functional Programming          |   ⏳   |
-| 18  | **map, filter & reduce**          | Array Methods in depth          |   ⏳   |
+| Ep  | Topic                                        | Key Concept                     | Status |
+| :-- | :------------------------------------------- | :------------------------------ | :----: |
+| 01  | **How JS Works**                             | Execution Context & Memory      |   ✅   |
+| 02  | **How Code is Executed**                     | Call Stack & Phases             |   ✅   |
+| 03  | **Hoisting in JS**                           | Memory allocation for variables |   ✅   |
+| 04  | **Functions & Variables**                    | Execution of function calls     |   ✅   |
+| 05  | **SHORTEST JS Program**                      | `window` & `this` keyword       |   ✅   |
+| 06  | **undefined vs not defined**                 | JS Type System                  |   ✅   |
+| 07  | **The Scope Chain**                          | Lexical Environment             |   ✅   |
+| 08  | **let & const & TDZ**                        | Temporal Dead Zone              |   ✅   |
+| 09  | **BLOCK SCOPE & Shadowing in JS**            | Scope                           |   ✅   |
+| 10  | **Closures in JS**                           | Closures                        |   ✅   |
+| 11  | **setTimeout + Closures Interview Question** | Closure question                |   ✅   |
+| 12  | **First Class Functions**                    | Anonymous vs Named functions    |   ⏳   |
+| 13  | **Callback Functions**                       | Event Listeners & Callbacks     |   ⏳   |
+| 14  | **Asynchronous JS**                          | Event Loop & Task Queue         |   ⏳   |
+| 15  | **JS Engine Exposed**                        | V8 Engine Architecture          |   ⏳   |
+| 16  | **Trust issues with setTimeout**             | Concurrency Model               |   ⏳   |
+| 17  | **Higher-Order Functions**                   | Functional Programming          |   ⏳   |
+| 18  | **map, filter & reduce**                     | Array Methods in depth          |   ⏳   |
 
 ### Season 2
 
