@@ -33,7 +33,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | 09  | **BLOCK SCOPE & Shadowing in JS**            | Scope                           |   ✅   |
 | 10  | **Closures in JS**                           | Closures                        |   ✅   |
 | 11  | **setTimeout + Closures Interview Question** | Closure question                |   ✅   |
-| 12  | **First Class Functions**                    | Anonymous vs Named functions    |   ⏳   |
+| 12  | **CRAZY JS INTERVIEW ft. Closures**          | Closure Interview Question      |   ✅   |
 | 13  | **Callback Functions**                       | Event Listeners & Callbacks     |   ⏳   |
 | 14  | **Asynchronous JS**                          | Event Loop & Task Queue         |   ⏳   |
 | 15  | **JS Engine Exposed**                        | V8 Engine Architecture          |   ⏳   |
