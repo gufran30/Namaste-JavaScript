@@ -88,7 +88,7 @@ console.log(a);
 
 - like if you want to store integer you have to specify its data type & you can't change its value integer to any other data type.
 
-- JS is **Loosely Typed** Language also known as "Weekly Typed" Language.
+- JS is **Loosely Typed** Language also known as "Weakly Typed" Language.
 
 - One thing which you should not do it, or we can se a bad thing to do in JS is assigning **undefined** to variable. like this
   ```js
