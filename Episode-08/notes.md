@@ -200,7 +200,7 @@ Uncaught SyntaxError: Identifier 'a' has already been declared
   4.  var a = 100;
   ```
 
-  - above code wll run & print `hey` in your console without any error.
+  - above code will run & print `hey` in your console without any error.
 
   - in case of **var** we can do this. your code will run without throwing error, but it is not a good practice to do this (means declaring the same variable name more than one time)
 
@@ -272,7 +272,7 @@ Uncaught SyntaxError: Identifier 'a' has already been declared
   - it will throw `SyntaxError` because you didn't follow the rule of declaring JS for declaring variables.
 
 - **ReferenceError**
-  - When JS engine trues to find out specific variable inside the memory space & it cannot access it, then it gives us `ReferenceError`.
+  - When JS engine tries to find out specific variable inside the memory space & it cannot access it, then it gives us `ReferenceError`.
 
   - If you do this :
 
