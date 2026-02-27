@@ -54,7 +54,7 @@
       }
       ```
 
-  - So this group of multiple statements caan be used in a place where JS expects a single statement. So, if it expects a single statement her after `if(true)`, but we want to use multiple statements so we use **Block**.
+  - So this group of multiple statements can be used in a place where JS expects a single statement. So, if it expects a single statement here after `if(true)`, but we want to use multiple statements so we use **Block**.
 
   ```js
   if (true) console.log("hey");
@@ -71,7 +71,7 @@
 ### What is Block Scope in JS ?
 
 - Block scope means what all variable and functions we can access inside the block.
-- To understand this, let declare 3 types of variables and see how thry behave inside the block, How Hoisting works inside the block, and how things works behind the scene.
+- To understand this, let declare 3 types of variables and see how they behave inside the block, How Hoisting works inside the block, and how things works behind the scene.
 
 ```js
 1.  {
@@ -89,7 +89,7 @@
 
 - And in case of `var a` it is hoisted in `Gloabl space` and this let & const are in `Block scope`, This is where that statement comes into picture - **"let & const are block scope"**
 
-- And when JS finished this JS code, whe it goes to line 5, this varaiblee `let & const` are no longer accessible. You cannot access this `let` & `const` outside this `{}` block, that is known as **"let & const are in block scope"** whereas you can access this `var` even outside the block becasue it is in the `Global scope`
+- And when JS finished this JS code, when it goes to line 5, this varaiblee `let & const` are no longer accessible. You cannot access this `let` & `const` outside this `{}` block, that is known as **"let & const are in block scope"** whereas you can access this `var` even outside the block becasue it is in the `Global scope`
 
 - So, if you run this code :
 
@@ -237,6 +237,6 @@ const a = 20;
   console.log(a); // this will print 20
   ```
 
-  - this above code will print `200`, because of lexical scope, console search a in its nearest scope, if it don't find it will search for it in it's parent scope, and so on.
+  - this above code will print `200`, because of lexical scope, console search `a` in its nearest scope, if it don't find it will search for it in it's parent scope, and so on.
 
 - Whether you declare a function with **function** keyword or an **arrow function** we feel that those might have different scope but they are exactly same. Thus, all the scope rules which work on **normal function** are exactly same in the **arrow function**
