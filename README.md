@@ -35,7 +35,7 @@ Each folder in this repository corresponds to an episode from the series. Inside
 | 11  | **setTimeout + Closures Interview Question**      | Closure question                |   ✅   |
 | 12  | **CRAZY JS INTERVIEW ft. Closures**               | Closure Interview Question      |   ✅   |
 | 13  | **FIRST CLASS FUNCTIONS ft. Anonymous Functions** | First class function            |   ✅   |
-| 14  | **Asynchronous JS**                               | Event Loop & Task Queue         |   ⏳   |
+| 14  | **Callback Functions in JS ft. Event Listeners**  | Callbcak function               |   ✅   |
 | 15  | **JS Engine Exposed**                             | V8 Engine Architecture          |   ⏳   |
 | 16  | **Trust issues with setTimeout**                  | Concurrency Model               |   ⏳   |
 | 17  | **Higher-Order Functions**                        | Functional Programming          |   ⏳   |
